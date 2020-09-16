@@ -1,0 +1,22 @@
+body {
+  font-family: "Crimson Text", serif;
+}
+.height {
+  min-height: 100vh;
+}
+.title-underline {
+  width: 200px;
+  height: 5px;
+  margin: 0 auto;
+}
+.height-80 {
+  min-height: 80vh;
+}
+/* image */
+.about-picture {
+  background: url(../img/pexels-pixabay-60008.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
