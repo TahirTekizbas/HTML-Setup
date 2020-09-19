@@ -20,7 +20,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-#filler {
+#filler,
+#progress {
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)),
     url(../img/pexels-pixabay-60008.jpg);
   background-size: cover;
